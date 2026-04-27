@@ -1,0 +1,11 @@
+numpy
+torch
+torchvision
+opencv-python
+pillow
+matplotlib
+pathlib
+scikit-learn
+scikit-image
+einops
+pydensecrf
