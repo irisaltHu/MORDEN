@@ -1,7 +1,7 @@
 #  A Modern ConvNet for Solar Filament Detection
 
 Official PyTorch implementation of **MORDEN** and the post-processing methods.
-
+![](./figs/model.png)
 ## 1.Data preparation
 The datasets are temporarily available [here](https://box.nju.edu.cn/d/1327c79cdabb49d58961/), please download and place them into the [data](./data) directory.
 
